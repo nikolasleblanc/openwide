@@ -1,0 +1,2 @@
+# openwide
+### a Sails application
